@@ -1,76 +1,105 @@
-# 👋 Hello there, I’m Dandi!
+# 👋 Hi, I'm Dandi!
 
-## 👨‍💻 QA Engineer | Automation Enthusiast | Problem Solver
+🎯 **QA Engineer | Automation Tester | Manual Tester**
 
-🚀 I’m a passionate **QA Engineer** with a strong focus on **Test Automation**, crafting reliable, scalable, and efficient test solutions to ensure software quality.  
-I enjoy breaking things — so we can build better!
-
-🔍 _“Great software deserves great testing.”_
-
----
-  
-
-
-## 🔗 Connect with Me:
-
-[🌐 Portfolio](https://yourportfolio.com) | [📧 Email](mailto:your.email@example.com) | [💼 LinkedIn](https://linkedin.com/in/yourprofile) | [📄 Resume/CV](https://github.com/dandierlangga02/your_resume.pdf)
+Passionate about software quality — experienced in both manual and automation testing. I enjoy building automation frameworks, API testing, and contributing to efficient SDLC practices.
 
 ---
 
-# ⚙️ Tech Stack
+## 🚀 Skills & Tools
 
-## 🔸 **Automation Frameworks & Tools**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![RestAssured](https://img.shields.io/badge/Rest_Assured-25A162?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FFCC29?style=for-the-badge)
-
-## 🖥️ **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🗂️ **Other Skills**
-![Allure](https://img.shields.io/badge/Allure_Report-1B1F23?style=for-the-badge&logo=allure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🖥️ Programming Languages
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)
 
 ---
 
-# 📂 My Projects (Portofolio)
-
-| 🚩 **Project**                   | ⚙️ **Tech Stack**                                   | 🔗 **Link**                |
-|----------------------------------|---------------------------------------------------|----------------------------|
-| **Login Automation Test**        | Java, Selenium, TestNG, Allure                     | [View Repo](#)             |
-| **CRUD Web Automation**          | Java, Selenium, Cucumber BDD                       | [View Repo](#)             |
-| **Mobile App Automation**        | Java, Appium, JUnit                                | [View Repo](#)             |
-| **API Testing Automation**       | Java, RestAssured, Postman, Allure                 | [View Repo](#)             |
-| **CI/CD Automation Pipeline**    | Jenkins, Maven, GitHub Actions                     | [View Repo](#) *(Coming)*  |
+### ⚙️ Automation Frameworks
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-6DB33F?logo=appium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+![Katalon](https://img.shields.io/badge/-Katalon-32C766?logo=katalon&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-
-![Dandi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dandierlangga02&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandierlangga02&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dandierlangga02&theme=radical)
+### 📜 BDD Framework
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white)
 
 ---
 
-# 🎯 Career Goals
-✅ Master Test Automation Frameworks  
-✅ Build solid CI/CD pipelines  
-🚀 Become a QA Automation Lead  
-🌎 Contribute to Open Source QA Projects  
+### 🔌 API Testing
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/-RestAssured-00A99D?logo=java&logoColor=white)
 
 ---
 
-# 📜 License
-Licensed under the **MIT License**.  
-Feel free to use or contribute!
+### 📈 Performance Testing
+![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?logo=apachespark&logoColor=white)
 
-⭐️ **If you like my work, give this repository a star!**
+---
+
+### 🔁 CI/CD & Version Control
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### 📊 Reporting
+![Allure](https://img.shields.io/badge/-Allure-4B0082?logo=allure&logoColor=white)
+![ExtentReports](https://img.shields.io/badge/-ExtentReports-4CAF50?logo=html5&logoColor=white)
+
+---
+
+## 📁 Portfolio Projects
+
+### 🖥️ **Web Automation - Practice Automation Test**
+- **Stack:** Java + Selenium + TestNG + Allure
+- **Features Tested:** Login, Register, CRUD Data
+- **Highlights:** 
+  - Automation with Page Object Model (POM)
+  - Integration with Allure Report for detailed reporting
+- **Repository:** [🔗 View Project](https://github.com/username/project-name)
+
+---
+
+### 📱 **Mobile Automation - Demo App**
+- **Stack:** Appium + Java + TestNG
+- **Platform:** Android Emulator
+- **Features Tested:** Login, Profile Update, Logout
+- **Repository:** [🔗 View Project](https://github.com/username/mobile-project)
+
+---
+
+### 🔗 **API Testing - RESTful API**
+- **Stack:** Java + RestAssured + TestNG
+- **Features Tested:** CRUD for Product Endpoint
+- **Repository:** [🔗 View Project](https://github.com/username/api-project)
+
+---
+
+## 🗂️ Example Test Reports
+
+| Tool          | Link                                        |
+| ------------- | ------------------------------------------- |
+| Allure Report | [🔗 View Example](https://your-report-link) |
+
+---
+
+## 📜 Certifications
+- 📄 ISTQB Certified Tester (Foundation Level)
+- 📄 Selenium Automation Testing Course (Udemy)
+
+---
+
+## ✨ Let's Connect
+- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🌐 **Portfolio:** [My Website](https://your-portfolio.com)
+
+---
+
+💡 *Open to new opportunities as QA Engineer. Let's build better software together!*
