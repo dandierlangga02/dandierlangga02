@@ -26,6 +26,7 @@ Passionate about software quality — experienced in both manual and automation 
 
 ### 📜 BDD Framework
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white)
+![Behave](https://img.shields.io/badge/-Behave-4B8BBE?logo=python&logoColor=white)
 
 ---
 
