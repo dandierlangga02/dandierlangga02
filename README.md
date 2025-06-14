@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Dandi!
 
----
-
 
 🎯 **QA Engineer | Automation Tester | Manual Tester**
 
