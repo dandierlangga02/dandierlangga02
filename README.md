@@ -99,7 +99,7 @@ Passionate about software quality — experienced in both manual and automation 
 
 ## ✨ Let's Connect
 - 📧 **Email:** [muhamaddandierlangga@gmail.com](mailto:muhamaddandierlangga@gmail.com)
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/muhamad-dandi-erlangga-197775347?)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/muhamad-dandi-erlangga-197775347)
 
 ---
 
