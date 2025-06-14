@@ -64,7 +64,7 @@ Passionate about software quality — experienced in both manual and automation 
 - **Highlights:** 
   - Automation with Page Object Model (POM)
   - Integration with Allure Report for detailed reporting
-- **Repository:** [🔗 View Project](https://github.com/username/project-name)
+- **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Selenium-by-JAVA)
 
 ---
 
