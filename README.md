@@ -98,9 +98,8 @@ Passionate about software quality — experienced in both manual and automation 
 ---
 
 ## ✨ Let's Connect
-- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [My Website](https://your-portfolio.com)
+- 📧 **Email:** [muhamaddandierlangga@gmail.com](mailto:muhamaddandierlangga@gmail.com)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/muhamad-dandi-erlangga-197775347?)
 
 ---
 
