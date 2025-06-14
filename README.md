@@ -6,7 +6,7 @@ Passionate about software quality — experienced in both manual and automation 
 
 ---
 
-## 🚀 Skills & Tools
+## ![Skills](https://img.shields.io/badge/-🚀%20Skills%20&%20Tools-blue?style=for-the-badge)
 
 ### 🖥️ Programming Languages
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) 
@@ -16,7 +16,8 @@ Passionate about software quality — experienced in both manual and automation 
 
 ---
 
-### ⚙️ Automation Frameworks
+## ![Automation](https://img.shields.io/badge/-⚙️%20Automation%20Frameworks-green?style=for-the-badge)
+
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-6DB33F?logo=appium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
@@ -24,24 +25,28 @@ Passionate about software quality — experienced in both manual and automation 
 
 ---
 
-### 📜 BDD Framework
+## ![BDD](https://img.shields.io/badge/-📜%20BDD%20Frameworks-purple?style=for-the-badge)
+
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white)
 ![Behave](https://img.shields.io/badge/-Behave-4B8BBE?logo=python&logoColor=white)
 
 ---
 
-### 🔌 API Testing
+## ![API](https://img.shields.io/badge/-🔌%20API%20Testing-orange?style=for-the-badge)
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/-RestAssured-00A99D?logo=java&logoColor=white)
 
 ---
 
-### 📈 Performance Testing
+## ![Performance](https://img.shields.io/badge/-📈%20Performance%20Testing-red?style=for-the-badge)
+
 ![JMeter](https://img.shields.io/badge/-Apache%20JMeter-D22128?logo=apachespark&logoColor=white)
 
 ---
 
-### 🔁 CI/CD & Version Control
+## ![CICD](https://img.shields.io/badge/-🔁%20CI/CD%20&%20Version%20Control-black?style=for-the-badge)
+
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -49,58 +54,25 @@ Passionate about software quality — experienced in both manual and automation 
 
 ---
 
-### 📊 Reporting
+## ![Reporting](https://img.shields.io/badge/-📊%20Reporting-indigo?style=for-the-badge)
+
 ![Allure](https://img.shields.io/badge/-Allure-4B0082?logo=allure&logoColor=white)
 ![ExtentReports](https://img.shields.io/badge/-ExtentReports-4CAF50?logo=html5&logoColor=white)
 
 ---
 
-## 📁 Portfolio Projects
+## ![Projects](https://img.shields.io/badge/-📁%20Portfolio%20Projects-lightgrey?style=for-the-badge)
 
 ### 🖥️ **Web Automation - Practice Automation Test**
-- **Stack:** Java + Selenium + TestNG + Allure
-- **Features Tested:** Login, Register, CRUD Data
-- **Highlights:** 
-  - Automation with Page Object Model (POM)
-  - Integration with Allure Report for detailed reporting
-- **Repository:** [🔗 View Project](https://github.com/username/project-name)
+...
 
 ---
 
-### 📱 **Mobile Automation - Demo App**
-- **Stack:** Appium + Java + TestNG
-- **Platform:** Android Emulator
-- **Features Tested:** Login, Profile Update, Logout
-- **Repository:** [🔗 View Project](https://github.com/username/mobile-project)
-
----
-
-### 🔗 **API Testing - RESTful API**
-- **Stack:** Java + RestAssured + TestNG
-- **Features Tested:** CRUD for Product Endpoint
-- **Repository:** [🔗 View Project](https://github.com/username/api-project)
-
----
-
-## 🗂️ Example Test Reports
-
-| Tool          | Link                                        |
-| ------------- | ------------------------------------------- |
-| Allure Report | [🔗 View Example](https://your-report-link) |
-
----
-
-## 📜 Certifications
+## ![Certifications](https://img.shields.io/badge/-📜%20Certifications-blueviolet?style=for-the-badge)
 - 📄 ISTQB Certified Tester (Foundation Level)
 - 📄 Selenium Automation Testing Course (Udemy)
 
 ---
 
-## ✨ Let's Connect
-- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [My Website](https://your-portfolio.com)
-
----
-
-💡 *Open to new opportunities as QA Engineer. Let's build better software together!*
+## ![Connect](https://img.shields.io/badge/-✨%20Let's%20Connect-ff69b4?style=for-the-badge)
+📧 **Email:** ...
