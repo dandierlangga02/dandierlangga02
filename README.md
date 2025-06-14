@@ -13,7 +13,6 @@ Passionate about software quality — experienced in both manual and automation 
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)
 
 ---
 
@@ -44,7 +43,6 @@ Passionate about software quality — experienced in both manual and automation 
 
 ### 🔁 CI/CD & Version Control
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
