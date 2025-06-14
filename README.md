@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Dandi!
 
+---
+
+
 🎯 **QA Engineer | Automation Tester | Manual Tester**
 
 Passionate about software quality — experienced in both manual and automation testing. I enjoy building automation frameworks, API testing, and contributing to efficient SDLC practices.
