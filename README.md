@@ -85,7 +85,7 @@ Passionate about software quality — experienced in both manual and automation 
 
 | Tool          | Link                                        |
 | ------------- | ------------------------------------------- |
-| Allure Report | [🔗 View Example](https://your-report-link) |
+| Allure Report | [🔗 View Example](https://github.com/dandierlangga02/Selenium_with_Allure_Report) |
 
 ---
 
