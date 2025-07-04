@@ -70,14 +70,14 @@ Passionate about software quality — experienced in both manual and automation 
 - **Stack:** Appium + Java + TestNG
 - **Platform:** Android Emulator
 - **Features Tested:** Login, Profile Update, Logout
-- **Repository:** [🔗 View Project](https://github.com/username/mobile-project)
+- **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Appium_JAVA)
 
 ---
 
 ### 🔗 **API Testing - RESTful API**
 - **Stack:** Java + RestAssured + TestNG
 - **Features Tested:** CRUD for Product Endpoint
-- **Repository:** [🔗 View Project](https://github.com/username/api-project)
+- **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Automation_API_RestAssured)
 
 ---
 
