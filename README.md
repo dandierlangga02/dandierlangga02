@@ -57,7 +57,7 @@ Passionate about software quality — experienced in both manual and automation 
 ## 📁 Portfolio Projects
 
 ### 🖥️ **Web Automation - Practice Automation Test**
-- **Stack:** Java + Selenium + TestNG + Allure
+- **Stack:** Java + Selenium + Allure
 - **Features Tested:** Login, Register, CRUD Data
 - **Highlights:** 
   - Automation with Page Object Model (POM)
@@ -67,7 +67,7 @@ Passionate about software quality — experienced in both manual and automation 
 ---
 
 ### 📱 **Mobile Automation - Demo App**
-- **Stack:** Appium + Java + TestNG
+- **Stack:** Appium + Java
 - **Platform:** Android Emulator
 - **Features Tested:** Login, Profile Update, Logout
 - **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Appium_JAVA)
@@ -75,9 +75,16 @@ Passionate about software quality — experienced in both manual and automation 
 ---
 
 ### 🔗 **API Testing - RESTful API**
-- **Stack:** Java + RestAssured + TestNG
+- **Stack:** Java + RestAssured
 - **Features Tested:** CRUD for Product Endpoint
 - **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Automation_API_RestAssured)
+
+---
+
+### 🚀 **Performance Testing - J-METER**
+- **Stack:** J-Meter
+- **Features Tested:** Load Testing
+- **Repository:** [🔗 View Project](https://github.com/dandierlangga02/PerformanceTest_By_JMETER)
 
 ---
 
@@ -90,8 +97,11 @@ Passionate about software quality — experienced in both manual and automation 
 ---
 
 ## 📜 Certifications
-- 📄 ISTQB Certified Tester (Foundation Level)
-- 📄 Selenium Automation Testing Course (Udemy)
+- 📄 Software Quality Assurance Course (Rakamin)
+- 📄 Software Testing: Process, Technique & Tools (BrainMatics)
+- 📄 Quality Assurance Mindset (Alterra)
+- 📄 Software Quality Engineer Learning Path (Qalam)
+- 📄 Sharing Session About Automation (Coding.ID)
 
 ---
 
