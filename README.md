@@ -88,6 +88,13 @@ Passionate about software quality — experienced in both manual and automation 
 
 ---
 
+### ⚙️ **Testing Automation - KATALON Studio**
+- **Stack:** Katalon + Groovy
+- **Features Tested:** Login
+- **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Automation_By_Katalon)
+
+---
+
 ## 🗂️ Example Test Reports
 
 | Tool          | Link                                        |
