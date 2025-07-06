@@ -95,6 +95,13 @@ Passionate about software quality — experienced in both manual and automation 
 
 ---
 
+### 📈 **Testing Automation - Cypress**
+- **Stack:** Cypress + Java Script
+- **Features Tested:** Login
+- **Repository:** [🔗 View Project](https://github.com/dandierlangga02/Automation_By_Cypress)
+
+---
+
 ## 🗂️ Example Test Reports
 
 | Tool          | Link                                        |
